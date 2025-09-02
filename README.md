@@ -9,7 +9,7 @@ Training logs and metrics are tracked with **Weights & Biases (wandb)**.
 ## 📂 Project Structure
 
 - `fine_tuning.ipynb` → Jupyter Notebook with the full fine-tuning pipeline    
-- Trained model checkpoints can be logged and visualized via [Weights & Biases](https://wandb.ai)  
+- Trained model checkpoints can be logged and visualized via [Weights & Biases](https://wandb.ai), but I can't change the visibility as public only team's member can access
 
 ---
 
@@ -17,5 +17,5 @@ Training logs and metrics are tracked with **Weights & Biases (wandb)**.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Gokhan-Ergul/<your-repo>.git
-cd <your-repo>
+https://github.com/Gokhan-Ergul/Getting-Started-with-LLM-Fine-Tuning.git
+cd Getting-Started-with-LLM-Fine-Tuning
